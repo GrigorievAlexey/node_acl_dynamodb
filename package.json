@@ -1,6 +1,6 @@
 {
   "name": "acl-dynamodb",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "DynamoDB backend for acl",
   "keywords": [
     "middleware",
@@ -9,9 +9,9 @@
     "dynamodb",
     "aws-sdk"
   ],
-  "repository": "git://github.com/nharris85/node_acl_dynamodb.git",
-  "author": "Nick Harris <nharris85@gmail.com>",
-  "homepage": "https://github.com/nharris85/node_acl_dynamodb",
+  "repository": "git://github.com/GrigorievAlexey/node_acl_dynamodb.git",
+  "author": "Alexey Grigoriev <grigoriev-aleks@gmail.com>",
+  "homepage": "https://github.com/GrigorievAlexey/node_acl_dynamodb",
   "engines": {
     "node": ">= 0.10"
   },
